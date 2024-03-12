@@ -7,7 +7,7 @@
 <br/>
 
 #### My name is *Elouan*, I'm a 21 years old *Developper*.
-- 🏦 I'm currently working as a part-time student in VueJS and Python full-stack development for Datama, Nantes. 
+- 🏦 I'm currently working as a part-time student in VueJS and Python full-stack development for [Datama](https://datama.io/), Nantes. 
 - ⚡ Proficient in **Python**, **Javascript** and a bunch of other stuff .
 - 💻 Currently getting better at Vue.
 - 💬 What's your favourite quote? Mine is : **It works on my computer.**
