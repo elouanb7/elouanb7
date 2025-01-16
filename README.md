@@ -6,7 +6,7 @@
 </p>
 <br/>
 
-#### My name is *Elouan*, I'm a 21 years old *Developper*.
+#### My name is *Elouan*, I'm a 22 years old *Developper*.
 - 🏦 I'm currently working as a part-time student in VueJS and Python full-stack development for [Datama](https://datama.io/), Nantes. 
 - ⚡ Proficient in **Python**, **Rust**, **Javascript** and a bunch of other stuff .
 - 💻 Currently getting better at Vue.
