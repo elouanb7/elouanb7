@@ -20,8 +20,7 @@
 <br/>
 <h2> 📊 Github Stats </h2> 
 <p align="center" class="github-stats"> 
-<img align=top width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=elouanb7&theme=tokyonight" alt="elouanb7"/>
+<!-- <img align=top width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=elouanb7&theme=tokyonight" alt="elouanb7"/>-->
 <img align=top width="400px" src="https://github-readme-stats.vercel.app/api?username=elouanb7&show_icons=true&theme=tokyonight"/>
-<!--     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouanb7&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=elouanb7&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> -->
+<img align=top width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouanb7&layout=compact&theme=tokyonight"/>
 </p>
