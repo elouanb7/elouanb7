@@ -15,7 +15,7 @@
 <br/><br/>
 <h2> 📊 Skills </h2> 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,python,fastapi,django,ts,js,vue,vite,vuetify,cpp,sass,postgres,docker,gcp,git,ps,figma,discord" />
+<img src="https://skillicons.dev/icons?i=rust,python,fastapi,django,ts,js,vue,vite,vuetify,cpp,sass,postgres,docker,kubernetes,gcp,aws,git,ps,figma,discord" />
 </p>
 <br/>
 <h2> 📊 Github Stats </h2> 
