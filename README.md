@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Elouan</h1>
 <p align="center"> 
   <a href=#><img src="contributions.svg"></a>
-  <br>Visitor count<br>
-  <img src="https://profile-counter.glitch.me/elouanb7/count.svg" />
+  <br>Visitor's count<br>
+  <img src="https://profile-counter.deno.dev/elouanb7/count.svg" alt="Key:: Visitor's Count" />
 </p>
 <br/>
 
