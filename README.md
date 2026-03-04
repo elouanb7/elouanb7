@@ -21,6 +21,5 @@
 <h2> 📊 Github Stats </h2> 
 <p align="center" class="github-stats"> 
 <!-- <img align=top width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=elouanb7&theme=tokyonight" alt="elouanb7"/>-->
-![GitHub Stats](https://github-widgets.elouanb7.com/api/stats?username=elouanb7&theme=contributions&border_radius=10)
-![Top Languages](https://github-widgets.elouanb7.com/api/languages?username=elouanb7&theme=contributions&langs_count=5&layout=compact&border_radius=10)
-</p>
+<img align="top" width="390px" src="https://github-widgets.elouanb7.com/api/stats?username=elouanb7&theme=contributions&border_radius=10" alt="GitHub Stats"/>
+<img align="top" width="400px" src="https://github-widgets.elouanb7.com/api/languages?username=elouanb7&theme=contributions&langs_count=10&layout=compact&border_radius=10" alt="Top Languages"/>
