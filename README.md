@@ -22,4 +22,4 @@
 <p align="center" class="github-stats"> 
 <!-- <img align=top width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=elouanb7&theme=tokyonight" alt="elouanb7"/>-->
 <img align="top" width="390px" src="https://github-widgets.elouanb7.com/api/stats?username=elouanb7&theme=contributions&border_radius=10" alt="GitHub Stats"/>
-<img align="top" width="400px" src="https://github-widgets.elouanb7.com/api/languages?username=elouanb7&theme=contributions&langs_count=10&layout=compact&border_radius=10" alt="Top Languages"/>
+<img align="top" width="495px" src="https://github-widgets.elouanb7.com/api/languages?username=elouanb7&theme=contributions&langs_count=10&layout=compact&border_radius=10&theme_colors=true" alt="Top Languages"/>
